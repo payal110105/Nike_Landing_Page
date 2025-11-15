@@ -14,16 +14,16 @@ A modern, responsive landing page for Nike, designed with a clean, minimalistic 
  ## 📸 Screenshot
 Here’s a preview of the website:
 
-<img src="src/assets/images/ss1.png" alt="Website Screenshot"/>
+<img src="src\assets\images\ss1.png" alt="Website Screenshot "/>
 
-<img src="src/assets/images/ss2.png" alt="Website Screenshot"/>
+<img src="src\assets\images\ss2.png" alt="Website Screenshot"/>
 
-<img src="src/assets/images/ss3.png" alt="Website Screenshot"/>
+<img src="src\assets\images\ss3.png" alt="Website Screenshot"/>
 
-<img src="src/assets/images/ss4.png" alt="Website Screenshot"/>
+<img src="src\assets\images\ss4.png" alt="Website Screenshot"/>
 
-<img src="src/assets/images/ss5.png" alt="Website Screenshot"/>
+<img src="src\assets\images\ss5.png" alt="Website Screenshot"/>
 
-<img src="src/assets/images/ss6.png" alt="Website Screenshot"/> 
+<img src="src\assets\images\ss6.png" alt="Website Screenshot"/> 
 
 
